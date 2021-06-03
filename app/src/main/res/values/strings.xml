@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">projet</string>
+    <string name="todo">TODO</string>
+    <string name="clique">Clique</string>
+    <string name="citation">Citation</string>
+    <string name="exemple_de_citation">Exemple de citation</string>
+    <string name="cree_par_fayssal">Cree par Fayssal</string>
+</resources>
